@@ -28,4 +28,4 @@ Apaixonado por aprender sobre tecnologias desde de meu primeiro "Hellow Word".
     - Com este projeto apliquei os meus primeiros passo em rumo ao aprendizado da tecnologia em React.JS aqui coloquei conhecimento em HTML, CSS, React.js e JS. Com este projeto aprendi a criar rotas dentro do react e separaçao de componentes para melhor facilidade de atualizaçao de estrutura.
 
 - [Barbearia](https://github.com/wesley-caldeira/Barbearia-React-js)
-    - Agora com este projeto aprendi a ordenar e aplicar efeitos em paginas react aplicar funcoes e ultilizalas em outras regiões do projeto.
+    - Agora com este projeto aprendi a ordenar e aplicar efeitos em paginas react.js aplicar funcoes e ultilizalas em outras regiões do projeto.
